@@ -1,8 +1,8 @@
 # Chatbot-to-Explore-Science-and-technology
-*LINK TO THE APP*:https://7900-34-16-176-26.ngrok-free.app/
+*LINK TO THE APP*- https://7900-34-16-176-26.ngrok-free.app/
 
 
-*LINK TO COLAB*:https://colab.research.google.com/drive/1jDMZrHzQsAuF5W6pPUajA8mwBRQ36Uiv?usp=sharing
+*LINK TO COLAB*- https://colab.research.google.com/drive/1d-kBhIsSLs6pLPQ4j0q2Jl0fXpGnQJW5?authuser=1#scrollTo=_jgR-ldz5KQi
 > USERNAME:User
 > PASSWORD:user@123
 
