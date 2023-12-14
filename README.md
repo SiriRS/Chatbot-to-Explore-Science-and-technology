@@ -2,7 +2,7 @@
 *LINK TO THE APP*- https://7900-34-16-176-26.ngrok-free.app/
 
 
-*LINK TO COLAB*- https://colab.research.google.com/drive/1d-kBhIsSLs6pLPQ4j0q2Jl0fXpGnQJW5?authuser=1#scrollTo=_jgR-ldz5KQi
+*LINK TO COLAB*- https://colab.research.google.com/drive/1rZQJrPdQmm9or_BIPXrLYeZ9RpwN9S1-?usp=sharing
 > USERNAME:User
 > PASSWORD:user@123
 
